@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPalidrome", "StringPalidrome\StringPalidrome.csproj", "{B568D245-9274-4C38-B593-F3A82F0D6883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B568D245-9274-4C38-B593-F3A82F0D6883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B568D245-9274-4C38-B593-F3A82F0D6883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B568D245-9274-4C38-B593-F3A82F0D6883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B568D245-9274-4C38-B593-F3A82F0D6883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34A01FF-329E-448B-8BE0-57DC6878EB4E}
+	EndGlobalSection
+EndGlobal
